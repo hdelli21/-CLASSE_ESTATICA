@@ -1,18 +1,43 @@
-## Getting Started
+# Classe Estática
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto tem como objetivo implementar um sistema para conversão de unidades utilizando uma classe estática. O projeto fornece métodos para conversão de temperatura, distância e massa, promovendo um código mais organizado e reutilizável.
 
-## Folder Structure
+## 🚀 Enunciado:
+Crie uma classe estática chamada ConversorUnidades que deve conter os seguintes métodos:
 
-The workspace contains two folders by default, where:
+- celsiusParaFahrenheit(double celsius): converte uma temperatura em Celsius para Fahrenheit.
+- quilometrosParaMilhas(double quilometros): converte uma distância em quilômetros para milhas.
+- gramasParaLibras(double gramas): converte uma massa em gramas para libras.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📋 Pré-requisitos
+Você precisará das seguintes ferramentas instaladas para rodar o projeto:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java JDK 23
+- Visual Studio Code
+- Git
+- GitHub
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🔧 Instalação
 
-## Dependency Management
+Clone o repositório no  computador
+Abra o projeto no Visual Studio Code
+Compile e execute o projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+🛠 Construído com
+Ferramentas e tecnologias utilizadas no desenvolvimento:
+
+Java JDK 23 
+Visual Studio Code - IDE 
+Git
+
+📌 Versão
+Versão 1.0 - Implementação inicial do projeto com as classes principais.
+Versão 1.1 - Refatoração de código e melhorias (23/10/24).
+
+📌 Diagrama Uml
+![Diagrama UML Classe Estatica](https://github.com/user-attachments/assets/f8c97a90-290c-44c5-b4f6-68018060d360)
+
+✒ Autor
+Henrick Delli Colli Honorato Silva - Atividade individual - Lista de Exercícios AC2 - Classe Estática - AC2
+
+
