@@ -33,7 +33,8 @@ Git
 📌 Versão
 Versão 1.0 - Implementação inicial do projeto com as classes principais.
 Versão 1.1 - Refatoração de código e melhorias (23/10/24).
-📌 Diagrama Uml
+
+🖼️ Diagrama Uml
 
 ![Diagrama UML Classe Estatica](https://github.com/user-attachments/assets/f8c97a90-290c-44c5-b4f6-68018060d360)
 
